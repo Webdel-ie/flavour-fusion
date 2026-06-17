@@ -13,6 +13,9 @@ A simple recipe website built using HTML and CSS featuring popular Indian sweets
 ![Project Preview](images/preview01.png)
 ![Project Preview](images/preview02.png)
 
+## Live Demo
+- https://webdel-ie.github.io/flavour-fusion/
+
 ## Technologies Used
 - HTML5
 - CSS3
