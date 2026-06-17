@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<!-- saved from url=(0058)http://127.0.0.1:5500/Projects/Recipe%20Project/index.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Restaurant</title>
+    
+<link rel="stylesheet" href="./project-preview2_files/style.css"></head>
+<body>
+<div class="container">
+
+    <header>
+        <div class="navcontainer">
+        <nav>
+            <ul id="navlist">
+                <li> 
+                    <p id="navlogo"> OutBox Restraunt</p>
+                </li>
+                <li>
+                    <div id="nav-items">
+                        <a href="http://127.0.0.1:5500/Projects/Recipe%20Project/HOME">Home</a>
+                        <a href="http://127.0.0.1:5500/Projects/Recipe%20Project/Contact">Contact</a>
+                        <a href="http://127.0.0.1:5500/Projects/Recipe%20Project/ABOUT">About</a>
+                    </div>
+                </li>
+            </ul>
+        </nav>
+        </div>
+    </header>
+   
+    <main>
+        <div class="contentbox">
+            <!-- item 1 -->
+            <section>
+                <div class="item">
+                    <div class="leftbox">
+                        <!-- heading -->
+                         <h2>Gulab Jamun</h2>
+
+                        <div> 
+                            <h3>Ingredients</h3>
+                         <ul class="ingredientbox">
+                            <li>Sugar</li>
+                            <li>Milk Powder</li>
+                            <li>All Purpose Flour</li>
+                            <li>Baking Soda</li>
+                            <li>Milk</li>
+                            <li>Ghee or Oil</li>
+                         </ul>
+
+                        </div>
+                        <div> 
+                            
+                         <h3>Recipe</h3>
+                         <ol class="recipebox">
+                            <li>In a bowl, mix milk powder, maida, baking soda, and ghee. Add milk gradually and knead into a soft dough.</li>
+                            <li>Divide the dough into small portions and roll them into smooth balls. Heat oil or ghee on low-medium flame. Fry the balls until they turn golden brown.</li>
+                            <li>n another pan, boil sugar and water to prepare the sugar syrup. Add cardamom for extra flavor (optional).</li>
+                            <li>Put the fried gulab jamuns into the warm sugar syrup. Let them soak for 1–2 hours. Serve warm or chilled and enjoy!</li>
+                         </ol>
+                        </div>
+
+                    </div>
+                    <div class="rightbox">
+                       <img src="./project-preview2_files/GulabJamun.jfif" alt="Gulab Jamun">
+                       <div class="overlay">
+                          <span>Click Here to buy!</span>
+                       </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- item2 -->
+            <section>
+                <div class="item">
+                    <div class="leftbox">
+                        <!-- heading -->
+                         <h2>Burfi</h2>
+
+                        <div> 
+                            <h3>Ingredients</h3>
+                         <ul>
+                            <li>Milk Powder</li>
+                            <li>Condensed Milk</li>
+                            <li>Ghee</li>
+                            <li>Cardamom Powder</li>
+                         </ul>
+
+                        </div>
+                        <div> 
+                            
+                         <h3>Recipe</h3>
+                         <ol>
+                            <li>In a pan, heat ghee and add condensed milk. Stir well and add milk powder gradually.</li>
+                            <li>Cook the mixture on low flame until it thickens and leaves the sides of the pan. Add cardamom powder and mix well.</li>
+                            <li>Transfer the mixture to a greased tray and spread evenly. Garnish with chopped nuts if desired.</li>
+                            <li>Let it cool and set completely, then cut into square pieces and serve.</li>
+                         </ol>
+                        </div>
+
+                    </div>
+                    <div class="rightbox">
+                         <img src="./project-preview2_files/Burfiii.jfif" alt="Burfi">
+                       <div class="overlay">
+                          <span>Click Here to buy!</span>
+                       </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- item3 -->
+            <section>
+                <div class="item">
+                    <div class="leftbox">
+                        <!-- heading -->
+                         <h2>Ras Malai</h2>
+
+                        <div> 
+                            <h3>Ingredients</h3>
+                         <ul class="ingredientbox">
+                            <li>Milk</li>
+                            <li>Lemon Juice or Vinegar</li>
+                            <li>Sugar</li>
+                            <li>Cardamom Powder</li>
+                            <li>Water</li>
+                            <li>Chopped Nuts</li>
+                         </ul>
+
+                        </div>
+                        <div> 
+                            
+                         <h3>Recipe</h3>
+                         <ol class="recipebox">
+                            <li>Boil milk and add lemon juice to curdle it. Strain and rinse the chenna (paneer).</li>
+                            <li>Knead the chenna until smooth and make small flat balls.</li>
+                            <li>Boil sugar and water in a pan and cook the balls until they become soft and spongy. In another pan, boil milk and reduce it slightly. Add sugar, cardamom powder, and saffron.</li>
+                            <li>Squeeze excess syrup from the cooked balls and add them to the flavored milk. Garnish with chopped nuts and chill before serving.</li>
+                         </ol>
+                        </div>
+
+                    </div>
+                    <div class="rightbox">
+                       <img src="./project-preview2_files/RasMalai.jfif" alt="Gulab Jamun">
+                       <div class="overlay">
+                          <span>Click Here to buy!</span>
+                       </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- item2 -->
+            <section>
+                <div class="item">
+                    <div class="leftbox">
+                        <!-- heading -->
+                         <h2>Burfi</h2>
+
+                        <div> 
+                            <h3>Ingredients</h3>
+                         <ul>
+                            <li>Cashew Nuts</li>
+                            <li>Sugar</li>
+                            <li>Water</li>
+                            <li>Ghee</li>
+                         </ul>
+
+                        </div>
+                        <div> 
+                            
+                         <h3>Recipe</h3>
+                         <ol>
+                            <li>Grind the cashew nuts into a fine powder.</li>
+                            <li>In a pan, heat sugar and water until the sugar dissolves completely. Add the cashew powder and cook on low flame while stirring continuously.</li>
+                            <li>Cook until the mixture thickens and forms a soft dough. Transfer it onto a greased surface and let it cool slightly.</li>
+                            <li>Roll it out evenly and cut into diamond-shaped pieces. Allow it to set completely before serving.</li>
+                         </ol>
+                        </div>
+
+                    </div>
+                    <div class="rightbox">
+                         <img src="./project-preview2_files/KajuKatli.jfif" alt="Burfi">
+                       <div class="overlay">
+                          <span>Click Here to buy!</span>
+                       </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+    
+    <footer>
+        <div class="footerbox">
+          <p>Copyright © OutBox Restraunt Pvt Ltd 2026 All Rights Reserved
+          </p>
+        </div>
+    </footer>
+    
+</div>
+<!-- Code injected by live-server -->
+<script>
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script>
+
+</body></html>
