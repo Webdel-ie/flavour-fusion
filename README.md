@@ -8,6 +8,10 @@ A simple recipe website built using HTML and CSS featuring popular Indian sweets
 - Ras Malai
 - Kaju Katli
 
+## Preview
+
+- ![Project Preview](images/project-preview.png)
+
 ## Technologies Used
 - HTML5
 - CSS3
