@@ -10,8 +10,8 @@ A simple recipe website built using HTML and CSS featuring popular Indian sweets
 
 ## Preview
 
-- ![Project Preview](images/project-preview01.png)
-- ![Project Preview](images/project-preview2.png)
+![Project Preview](images/project-preview01.png)
+![Project Preview](images/project-preview2.png)
 
 ## Technologies Used
 - HTML5
